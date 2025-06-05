@@ -34,7 +34,6 @@ body {
   font-size: 4rem;
   margin-bottom: 1rem;
   color: #ff4081;
-  /* letter-spacing: 1px; */
   font-family:  'Poppins', sans-serif;
   font-weight: bolder;
   
@@ -58,18 +57,17 @@ body {
 .hero .btn:hover {
   background: #e73370;
 }
-/* ...existing code... */
+
 .categories {
   padding: 2rem;
   text-align: center;
 }
 
 .category-list {
-   display: flex;
+  display: flex;
   justify-content: center; 
   align-items: center;
-  /* gap: 2rem; */
-  /* margin-top: 1rem; */
+  
 }
 
 .category {
