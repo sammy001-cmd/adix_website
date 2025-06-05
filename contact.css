@@ -9,6 +9,9 @@ body {
   line-height: 1.6;
   background-color: #fff;
   color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 header {
@@ -33,6 +36,7 @@ position: sticky;
   max-width: 600px;
   margin: auto;
   text-align: center;
+  
 }
 
 .contact form {
@@ -61,4 +65,6 @@ footer {
   color: #fff;
   text-align: center;
   padding: 1rem;
+  
+  
 }
